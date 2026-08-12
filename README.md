@@ -1,2 +1,2 @@
 # Sample-Agent(LangChain)DW
-Sample Application
+Sample Application of LangChain Agent
